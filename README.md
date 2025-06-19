@@ -53,6 +53,17 @@ This project is an AI-powered Slack Chatbot designed to help small-scale busines
     jupyter notebook
     ```
 3. Open the notebook and follow the instructions to start the chatbot.
+   
+### Demo image
+
+## Image Showing the Slack Chatbot
+![image](https://github.com/user-attachments/assets/addc23ca-26ee-4698-8863-2bec591b597e)
+
+## Data Source Image 
+![image](https://github.com/user-attachments/assets/ee345e39-a066-42b3-8dfc-bcd6a0c18d3e)
+
+
+
 
 ## Contributing
 
